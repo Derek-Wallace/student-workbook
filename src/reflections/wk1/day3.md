@@ -2,7 +2,9 @@
 
 >When choosing a secondary color for text on a colored background choose a color in the same hue as the background.
 
-Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
+# Resources for creating good design
+
+>When creating your design using sources like the bootstrap library to see what kind of things are already put in there can give you an idea of designs that have been used many times over. 
 
 # The influence of good design on the user and things that can be conveyed through design
 

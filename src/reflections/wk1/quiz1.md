@@ -15,7 +15,7 @@ To make a directory.
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It shows where your page begins and ends. everything should be between these.
 ```
 
 **4.** What does `HTML` stand for?
@@ -56,13 +56,13 @@ body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol, dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property tells the content to grow or shrink to fit the space given
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
