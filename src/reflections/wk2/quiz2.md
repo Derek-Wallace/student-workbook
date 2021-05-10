@@ -3,7 +3,7 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var, let, const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
@@ -13,7 +13,7 @@
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+single responsiblity
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+2, the index positions start at 0
 ```
 **5.** With these two objects: 
 ```js
@@ -47,7 +47,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+final-expression
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
