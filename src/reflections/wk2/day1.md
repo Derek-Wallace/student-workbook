@@ -9,3 +9,5 @@
 # Using let vs var vs const
 
 >You will use let to define variables inside of their blocks when they could be changed throughout. Var is used for global variables that are used often. Const is used to define something that will not change.
+
+https://github.com/Derek-Wallace/js-tests-basics
