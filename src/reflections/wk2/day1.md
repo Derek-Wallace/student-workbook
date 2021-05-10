@@ -1,5 +1,11 @@
-What is Scope ?
+# Scope
 
-What is Hoisting ?
+>Scope is where the variables are available for use.
 
-In what cases might you use let vs const vs var?
+# Hoisting
+
+>Hoisting happens before the code executes and it means that the variables and declarations get moved to the top of their scope.
+
+# Using let vs var vs const
+
+>You will use let to define variables inside of their blocks when they could be changed throughout. Var is used for global variables that are used often. Const is used to define something that will not change.
