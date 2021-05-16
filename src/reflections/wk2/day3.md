@@ -1,4 +1,6 @@
-What are the main ways to write information to the console? Why/when should you use each style.
+# Ways to write to the console
+
+>You can write to the console using console.log when testing if something is functioning properly to give a visual cue in the consol. errors will also be written to the console and are extremly helpful when fixing problems. You can also write directly into the console to test functions, view data from functions, and evaluate conditional statments.
 
 # The elements tab in your dev tools
 

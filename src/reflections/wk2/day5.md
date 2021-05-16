@@ -1,1 +1,3 @@
-This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
+# This week's refelctions
+
+>I've very much been enjoying this week of learning javascript and getting the chance to make some functional projects. I am feeling pretty confident in my basic abilities. Biggest struggle has still been getting things looking exactly how I want them to with CSS/bootstrap.
