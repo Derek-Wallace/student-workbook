@@ -9,3 +9,5 @@
 # Can you pass parameters through nested routes? When might you use them?
 
 >Yes you can pass parameters through nested routes. To get certain information for finding profiles or items to certain pages.
+
+https://github.com/Derek-Wallace/PokeDex-vue
