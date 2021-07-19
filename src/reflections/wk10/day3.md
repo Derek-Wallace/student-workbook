@@ -14,3 +14,5 @@
 # What is the difference between the following statements: DELETE FROM table_name; DROP TABLE table_name;
 
 >Delete from deletes a value from the table. Drop table removes the enitre table and all its values.
+
+https://github.com/Derek-Wallace/glistServer (connected to database)

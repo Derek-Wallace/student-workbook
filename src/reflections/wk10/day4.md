@@ -9,3 +9,5 @@
 # How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 
 >I haven't used one before and I'm not sure how you would use one. You might be able to use one to allow access to an exact set of options.
+
+https://github.com/ConnorH14/AllSpice (partner project)
